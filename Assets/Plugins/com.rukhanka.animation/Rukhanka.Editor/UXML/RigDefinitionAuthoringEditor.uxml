@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <uie:PropertyField name="hasAnimationEvents" binding-path="hasAnimationEvents" tooltip="If animations played on this rig should emit events" />
+    <uie:PropertyField name="hasAnimatorControllerEvents" binding-path="hasAnimatorControllerEvents" />
+    <uie:PropertyField binding-path="boneEntityStrippingMode" label="Bone Entity Stripping Mode" name="strippingMode" />
+    <uie:PropertyField name="boneStrippingMask" binding-path="boneStrippingMask" label="Bone Stripping Mask" />
+</ui:UXML>

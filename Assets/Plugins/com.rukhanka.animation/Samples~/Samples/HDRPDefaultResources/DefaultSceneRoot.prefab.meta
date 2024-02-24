@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2bfa7b9d63fa79e4abdc033f54a868d2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241472
+  packageName: Rukhanka - ECS Animation System
+  packageVersion: 1.5.1
+  assetPath: Packages/com.rukhanka.animation/Samples~/Samples/HDRPDefaultResources/DefaultSceneRoot.prefab
+  uploadId: 643573

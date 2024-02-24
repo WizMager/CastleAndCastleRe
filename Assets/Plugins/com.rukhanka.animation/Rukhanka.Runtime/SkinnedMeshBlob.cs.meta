@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cfe8d82b852c3bb4b8b7ef0c1fe81be7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241472
+  packageName: Rukhanka - ECS Animation System
+  packageVersion: 1.5.1
+  assetPath: Packages/com.rukhanka.animation/Rukhanka.Runtime/SkinnedMeshBlob.cs
+  uploadId: 643573

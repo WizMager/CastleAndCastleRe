@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a81a884f5ceb9847b3e4e2cd7a8fb3e
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241472
+  packageName: Rukhanka - ECS Animation System
+  packageVersion: 1.5.1
+  assetPath: Packages/com.rukhanka.animation/Rukhanka.Hybrid/EntitiesInternalsAccess/EntitiesReference.asmref
+  uploadId: 643573

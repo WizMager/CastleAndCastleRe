@@ -1,0 +1,10 @@
+using Unity.Entities;
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+namespace Rukhanka
+{ 
+[DisableAutoCreation]
+public partial class RukhankaAnimationInjectionSystemGroup: ComponentSystemGroup { }
+}
+
